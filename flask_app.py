@@ -32,7 +32,7 @@ CORS(app)
 # KONFIGURASI
 # =========================
 DB_CONFIG = {
-    "host": "https://navajowhite-snail-627282.hostingersite.com",
+    "host": "auth-db1785.hstgr.io",
     "user": "u324517725_matchr",
     "password": "Macacas27",
     "database": "u324517725_matchr",
